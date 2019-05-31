@@ -3,6 +3,10 @@
 git - 간편 안내서
 https://rogerdudler.github.io/git-guide/index.ko.html
 
+getModels.bat을 꼭 실행시키고 사용해야만 한다!
+실행시키면 아래의 파이썬 파일을 실행시킬 때 필요한 파일이 다운로드 되는데 100mb가 넘기 때문에
+git에 올릴수가 없다. (100mb가 넘지 않는 파일만 git에 올릴 수 있다.)
+
 1. coco_mpi_apis.py
 
 COCO와 MPII를 모두 사용하고 어떤 것을 채택할지 선택하기 위해서 작성
